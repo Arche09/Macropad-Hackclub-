@@ -1,4 +1,4 @@
-# Macropad-Hackclub-
+# Dap-oram
 Dap-oram pad: is a 9 key macropad capable of basic user functions which one would like to make their streaming or daily life easier :)
 
 Overall Macropad Image
